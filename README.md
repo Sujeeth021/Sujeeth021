@@ -17,3 +17,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujeeth021&show_icons=true&locale=en" alt="sujeeth021" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujeeth021&" alt="sujeeth021" /></p>
+
+### 📊**Leetcode Stats**
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sujeethkumarms1?theme=dark)](https://leetcode.com/sujeethkumarms1)
+---
